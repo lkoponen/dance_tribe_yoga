@@ -1,0 +1,12 @@
+body {
+  font-family: 'Raleway', sans-serif;
+}
+
+.title-super {
+  font-family: 'Pacifico', cursive;
+  color: #E84A5F;
+  font-size: 3em;
+}
+.pointer {
+  cursor: pointer;
+}
